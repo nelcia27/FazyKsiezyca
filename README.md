@@ -1,3 +1,3 @@
 # FazyKsiezyca 🌘🌑🌒
 
-Using this app you can calculate the dates of previous or comming full moon and new moon 😀
+Aplikacja ustali daty nimonej/najbliższej pełni lub nowiu ksiżezyca oraz pomoże ustalić daty pełni w latach 1900-2200 😀
